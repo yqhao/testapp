@@ -1,5 +1,7 @@
 
 <?php
+require 'PHPUnit/Framework/TestCase.php';
+
 use PHPUnit\Framework\TestCase;
 class DemoTest extends TestCase {
 
