@@ -169,7 +169,7 @@
 
     <target name="test" description="Run PHPUnit tests">
 
-        <phpunit haltonerror="true" haltonfailure="true" printsummary="true">
+        <phpunit haltonerror="true" haltonfailure="true" printsummary="true" pharlocation="/usr/local/bin/phpunit">
 
             <batchtest>
 
