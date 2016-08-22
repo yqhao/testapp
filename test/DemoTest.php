@@ -1,7 +1,7 @@
 
 <?php
-
-class DemoTest extends PHPUnit_Framework_TestCase {
+use PHPUnit\Framework\TestCase;
+class DemoTest extends TestCase {
 
 public function testPass() {
 
